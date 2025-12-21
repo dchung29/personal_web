@@ -9,7 +9,7 @@ export default function Contact() {
         <div className="section-label">
           <span>✦</span> Get in touch
         </div>
-        <h2 className="section-title">Let's work together</h2>
+        <h2 className="section-title">Let's work together!</h2>
       </div>
 
       <a
