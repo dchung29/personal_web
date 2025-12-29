@@ -10,7 +10,7 @@ import img5 from '../portfolio/IMG_1191.jpg';
 import img6 from '../portfolio/IMG_1195.jpg';
 import img7 from '../portfolio/IMG_1201.jpg';
 import img8 from '../portfolio/IMG_1207.jpg';
-import img9 from '../portfolio/_DSC1460.jpg';
+import img9 from '../portfolio/travelimg.JPG';
 import img10 from '../portfolio/VW.jpg';
 import img11 from '../portfolio/santacruz.jpg';
 import img12 from '../portfolio/santacruz2.jpg';
